@@ -1,0 +1,32 @@
+# 📋 Lista de Tarefas (To-Do List)
+
+Um projeto simples de lista de tarefas com CRUD completo usando SQLite como banco de dados.
+
+## 🚀 Funcionalidades
+
+- ✅ Adicionar novas tarefas
+- 📝 Editar tarefas existentes
+- 👀 Visualizar todas as tarefas
+- 🗑️ Excluir tarefas
+- ✔️ Marcar tarefas como concluídas
+- 📅 Gerenciar por data
+
+## ⚙️ Estrutura das Tarefas
+
+Cada tarefa contém:
+- ✏️ Descrição (texto)
+- 📅 Data (formato YYYY-MM-DD)
+- 🔘 Status (Concluído/Pendente)
+
+## 🛠️ Tecnologias
+
+- Python 
+- SQLite3
+- Crud em Python
+
+## 📦 Instalação
+
+1. Clone o repositório:
+```bash
+git clone [https://github.com/PXL2/lista-de-tarefas.git]
+
